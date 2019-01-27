@@ -5,6 +5,6 @@ test('My Greeter', () => {
 });
 
 test('My Greeting', () => {
-  const inst = new Greeting('Carl')
+  const inst = new Greeting('Carl');
   expect(inst.greeter()).toBe('Hello Carl');
 });

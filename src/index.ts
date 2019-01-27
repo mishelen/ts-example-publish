@@ -10,6 +10,4 @@ class Greeting {
   }
 }
 
-export {
-  Greeting, Greeter
-}
+export { Greeting, Greeter };
